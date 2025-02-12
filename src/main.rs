@@ -3,7 +3,6 @@
 
 fn main() {
     print("Hello, world!");
-    print("Goodbye, world!");
 }
 
 // a function which prints a message
