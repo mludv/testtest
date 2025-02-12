@@ -1,6 +1,8 @@
-// A "Hello, world!" program
-// This is the best implementation of this program
+/// A "Hello, world!" program
+/// This is the best implementation of this program
 
+
+/// The main function runs when our program starts
 fn main() {
     print("Hello, world!");
 }
